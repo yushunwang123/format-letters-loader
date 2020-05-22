@@ -45,7 +45,7 @@ module.exports = {
                         }
                     },
                     {
-                        loader: 'format-letters-loader.js',
+                        loader: 'format-letters-loader',
                         options: {
                             formatType: 'U2L'
                         }
