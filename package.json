@@ -1,0 +1,24 @@
+{
+  "name": "format-letters-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yushunwang123/format-letters-loader.git",
+  "author": "wangyushun <1224737407@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "loader-utils": "^2.0.0",
+    "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
